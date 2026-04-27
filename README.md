@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**sahinkayaburak/sahinkayaburak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
 
-Here are some ideas to get you started:
+- **Smart-Home-Mobile, Smart-Home-Backend and Smart-Home-Arduino**  
+  Co-developed with @orhanardaduman and @Mustafaanil 
+  🔗 https://github.com/CONZIUM/Smart-Home-Mobile --- https://github.com/CONZIUM/Smart-Home-Backend --- https://github.com/CONZIUM/Smart-Home-Arduino 
+  My role: Front-end development, Application UI Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Car-Cartel-Auto-Company**
+  Co-developed with @kazmkorkmaz and @faruk-guc
+   🔗 https://github.com/sahinkayaburak/Car-Cartel-Auto-Company/tree/main
+  My role: SQL Development
+  
